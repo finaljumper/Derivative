@@ -14,7 +14,7 @@ public class Node extends ExpressionTree {
         return expression;
     }
 
-    public boolean hassBrackets() {
+    public boolean hasBrackets() {
         return brackets;
     }
 
